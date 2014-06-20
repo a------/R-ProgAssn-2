@@ -1,6 +1,6 @@
-## Project 2- Peer Assessment:  Lexical Scoping-
-#  Abraham Hmiel, June 20th 2014
-#  Introduction to R Programming
+# Project 2- Peer Assessment:  Lexical Scoping-
+##  Abraham Hmiel, June 20th 2014
+##  Introduction to R Programming: Coursera rprog-004
 
  Calling sequence:
  let G be an invertible matrix.
