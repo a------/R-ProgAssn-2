@@ -1,4 +1,4 @@
-# Project 2- Peer Assessment:  Lexical Scoping-
+# Project 2- Peer Assessment:  Lexical Scoping
 ##  Abraham Hmiel, June 20th 2014
 ##  Introduction to R Programming: Coursera rprog-004
 
