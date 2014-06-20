@@ -18,11 +18,8 @@
  Return the matrix to check if it has been stored properly
  > m$get()
 
- Solve the matrix with cacheSolve. cacheSolve's argument is the
- cached matrix list m. The output is G^-1.
+ Solve the matrix with cacheSolve. cacheSolve's argument is the  cached matrix list m. The output is G^-1.
  cacheSolve cannot be used without saving the cached list 'm' first.
  > cacheSolve(m)
 
- if solved again (and the value of G hasn't changed), it will simply
- return the cached value of the inverse instead of performing the
- computation again. 
+ If solved again (and the value of G hasn't changed), it will simply return the cached value of the inverse instead of performing the  computation again. 
